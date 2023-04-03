@@ -2,16 +2,16 @@
     "@context":
     {
         "@vocab": "TODO",
-        "openlabel": "TODO",
-        "metadata": "TODO",
-        "schema_version": "TODO",
-        "file_version": "TODO",
-        "comment": "TODO",
-        "name": "TODO",
-        "ontologies": "TODO",
-        "objects": "TODO",
-        "type": "TODO",
-        "ontology_uid": "TODO"
+        "openlabel": "https://openlabel.asam.net/V1-0-0/schema/openlabel_json_schema.json#openlabel",
+        "metadata": "https://openlabel.asam.net/V1-0-0/schema/openlabel_json_schema.json#metadata",
+        "schema_version": "https://openlabel.asam.net/V1-0-0/schema/openlabel_json_schema.json#schema_version",
+        "file_version": "https://openlabel.asam.net/V1-0-0/schema/openlabel_json_schema.json#file_version",
+        "comment": "https://openlabel.asam.net/V1-0-0/schema/openlabel_json_schema.json#comment",
+        "name": "https://openlabel.asam.net/V1-0-0/schema/openlabel_json_schema.json#name",
+        "ontologies": "https://openlabel.asam.net/V1-0-0/schema/openlabel_json_schema.json#ontologies",
+        "objects": "https://openlabel.asam.net/V1-0-0/schema/openlabel_json_schema.json#objects",
+        "type": "https://openlabel.asam.net/V1-0-0/schema/openlabel_json_schema.json#type",
+        "ontology_uid": "https://openlabel.asam.net/V1-0-0/schema/openlabel_json_schema.json#ontology_uid"  
     }
  }
  
