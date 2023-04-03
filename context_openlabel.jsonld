@@ -1,0 +1,17 @@
+{
+    "@context":
+    {
+        "@vocab": "TODO",
+        "openlabel": "TODO",
+        "metadata": "TODO",
+        "schema_version": "TODO",
+        "file_version": "TODO",
+        "comment": "TODO",
+        "name": "TODO",
+        "ontologies": "TODO",
+        "objects": "TODO",
+        "type": "TODO",
+        "ontology_uid": "TODO"
+    }
+ }
+ 
