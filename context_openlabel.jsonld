@@ -1,7 +1,7 @@
 {
     "@context":
     {
-        "@vocab": "TODO",
+        "@vocab": "_:",
         "openlabel": "https://openlabel.asam.net/V1-0-0/schema/openlabel_json_schema.json#openlabel",
         "metadata": "https://openlabel.asam.net/V1-0-0/schema/openlabel_json_schema.json#metadata",
         "schema_version": "https://openlabel.asam.net/V1-0-0/schema/openlabel_json_schema.json#schema_version",
